@@ -15,9 +15,9 @@ This project provides an end-to-end Bank Customer Churn Analysis using a combina
  ## Business Insights
 Customer Segmentation: Customers segmented by city, age group, and number of accounts reveal different churn behaviors, allowing targeted retention strategies.
 
-Churn Drivers: Logistic Regression identifies that higher account balance, being an active member, and having multiple accounts decrease churn risk, while other factors like age group and estimated salary have varied influence.
+Churn Drivers: Logistic Regression identifies that higher account balance, being an active member, and having multiple accounts decrease churn risk, while other factors like age group and estimated salary have a varied influence.
 
-Visual Patterns: Scatterplots and bar charts visualize how average lifetime value and churn rates vary by geography and customer profiles, helping business leaders quickly spot at-risk segments.
+Visual Patterns: Scatterplots and bar charts visualize how average lifetime value and churn rates vary by city and customer profiles, helping business leaders quickly spot at-risk segments.
 
 Actionable Recommendations:
 
